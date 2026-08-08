@@ -27,3 +27,4 @@ Local-first AI for personal finance. Transaction categorization that runs on you
 Chartered accountant by training, Big Four and capital markets by career. I write software the way I audited books: the numbers have to tie out, and "the AI said so" is not a control.
 
 📍 Warsaw · 🌐 [numbyai.com](https://numbyai.com)
+

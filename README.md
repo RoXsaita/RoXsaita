@@ -1,30 +1,33 @@
-## Suheil
+## I build AI systems that do real work.
 
-Finance professional — CPA, Big Four, capital markets — based in Warsaw, building AI developer tools and local-first software.
+**Enterprise transformation → AI · Built in public**
 
-Most of what's here came out of a real workflow: something I needed, built for myself, then cleaned up enough to be useful to someone else. The through-line is agentic tooling — making AI assistants reliable enough to trust with actual work.
+A decade in financial services. Today I lead transformation across Central and Eastern Europe for one of the largest professional services firms in the world. On my own time I build tools, make AI content in Arabic, and have fun doing it.
 
-### Building
+`AI systems` · `Built in public` · `Arabic AI content`
 
-**[NumbyAI](https://numbyai.com)** · [`NumbyAI-Public`](https://github.com/RoXsaita/NumbyAI-Public)
-Local-first AI for personal finance. Transaction categorization that runs on your own machine — FastAPI + Ollama + SQLite, no data leaves the box. Comes from spending years reconciling other people's books and wanting the same rigor for my own.
+### Builder, not theorist
 
-### Claude Code & MCP tooling
+Ten years across audit, capital markets and advisory taught me how organizations actually work. Everything here is a tool I needed, built, and shipped — real tools, no hypotheticals. Every project documented, every tool shared, because shipping is the best proof of competence.
 
-| | |
+### Work
+
+| Project | |
 |---|---|
-| [`Claude-MCP-Toggle`](https://github.com/RoXsaita/Claude-MCP-Toggle) | CLI for staging MCP servers in and out of Claude Code without losing their configs |
-| [`Agentic-intent-commands`](https://github.com/RoXsaita/Agentic-intent-commands) | Intent → clarify → prompt-engineer command chain for structured AI development loops |
-| [`debank-portfolio-skill`](https://github.com/RoXsaita/debank-portfolio-skill) | Agent skill for pulling crypto portfolio data off DeBank |
-| [`avatar-explainer-video`](https://github.com/RoXsaita/avatar-explainer-video) | Skill that turns a document into a narrated AI-presenter explainer video |
+| **NumbyAI** · [`NumbyAI-Public`](https://github.com/RoXsaita/NumbyAI-Public) | Personal finance platform that categorizes bank activity automatically using local LLMs — FastAPI, React, Ollama. Your data never leaves the machine. |
+| **NADIR** · [`New-Cinematic-Website`](https://github.com/RoXsaita/New-Cinematic-Website) · [`nadir-scroll-media`](https://github.com/RoXsaita/nadir-scroll-media) | A cinematic pressure-system experience rendered as frame-accurate motion controlled directly by scroll. |
+| **Teleprompter App** · [`Teleprompting-app-android`](https://github.com/RoXsaita/Teleprompting-app-android) | Mobile-first teleprompter for content creators, with Arabic/RTL script support and on-the-fly editing. |
+| **AI Developer Toolkit** · [`Agentic-intent-commands`](https://github.com/RoXsaita/Agentic-intent-commands) · [`Claude-MCP-Toggle`](https://github.com/RoXsaita/Claude-MCP-Toggle) | Intent-driven command orchestration for agentic development, and MCP server management for Claude Code. |
+| **Portfolio Intelligence** · [`debank-portfolio-skill`](https://github.com/RoXsaita/debank-portfolio-skill) | DeFi protocol integrations and persistent data flows for crypto portfolio analytics. |
+| **Content Automation** · [`avatar-explainer-video`](https://github.com/RoXsaita/avatar-explainer-video) | End-to-end pipeline turning documents into narrated AI-presenter explainer video. |
+| **RoXsaOS Agent Platform** | Recursive AI system with persistent memory, multi-agent orchestration and long-horizon automation. *(private)* |
 
-### Web & motion
+### Built with
 
-[`suheilai-cinematic-website`](https://github.com/RoXsaita/suheilai-cinematic-website) — scroll-driven cinematic site built on Vite, GSAP/ScrollTrigger, Lenis and canvas particles.
+Python · FastAPI · React · Vite · Claude & GPT APIs · Ollama · PostgreSQL · SQLite · Remotion
 
-### Background
+### Elsewhere
 
-Chartered accountant by training, Big Four and capital markets by career. I write software the way I audited books: the numbers have to tie out, and "the AI said so" is not a control.
+I break down real AI tooling in Arabic across YouTube, TikTok and Instagram.
 
-📍 Warsaw · 🌐 [numbyai.com](https://numbyai.com)
-
+[suheilai.com](https://suheilai.com) · [YouTube](https://youtube.com/@suheilbuilds) · [TikTok](https://tiktok.com/@SuheilAI) · [Instagram](https://instagram.com/suheilabu)
